@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moYousry14
 - 👀 I’m interested in Artificial Intelligence Engineering
-- 🌱 I’m currently learning Python - Math(statistics) - machine learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email:yousrymohamed999@gmail.com
 - 😄 Pronouns: ...
